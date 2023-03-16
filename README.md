@@ -1,4 +1,4 @@
-## Olá! Eu sou o Clodoaldo Carvalho
+## Olá! Eu sou o Clodoaldo (Clody) Carvalho
 
 <!--<div align="center">
   <a href="https://github.com/clodoaldocarvalho">
