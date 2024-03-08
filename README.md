@@ -3,6 +3,7 @@
 <div align="center">
   <a href="https://github.com/ClodyCarvalho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClodyCarvalho&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClodyCarvalho&hide_progress=true"/>
     
 </div>  
 
